@@ -14,11 +14,11 @@ This project includes:
 
 ## 🚀 Getting Started
 
-You can open each `.html` file in your browser directly to view the site.
+You can open each file in your browser directly to view the site.
 
 ## 🤝 Contributing
 
-Feel free to fork this project and customize it for your own learning journey!
+Feel free to fork this project and customize it for your learning journey!
 
 ---
 
