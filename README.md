@@ -23,3 +23,4 @@ Feel free to fork this project and customize it for your learning journey!
 ---
 
 🧡 Built for beginners by learners.
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ijayhub/learning-projects)
