@@ -1,6 +1,6 @@
 # Learning Hub 🌱
 
-A simple beginner-friendly static website for learning web development.  
+A simple, beginner-friendly static website for learning web development.  
 This project includes:
 
 - A homepage (`index.html`)
@@ -18,7 +18,7 @@ You can open each file in your browser directly to view the site.
 
 ## 🤝 Contributing
 
-Feel free to fork this project and customize it for your learning journey!
+Feel free to fork this project and customise it for your learning journey!
 
 ---
 
